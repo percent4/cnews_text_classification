@@ -1,0 +1,2 @@
+# cnews_text_classification
+利用kashgari轻松搭建文本分类模型。
